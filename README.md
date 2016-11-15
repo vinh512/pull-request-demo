@@ -10,3 +10,6 @@ List of random stuff
 - TACOS
 - BURRITOS
 - PIZZA
+- Lizard
+- T-Rex
+- Brontosaurus
